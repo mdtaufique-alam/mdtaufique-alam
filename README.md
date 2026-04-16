@@ -80,14 +80,6 @@
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtaufique-alam&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdtaufique-alam&label=Profile+Views&color=58A6FF&style=flat-square" />
 </p>
