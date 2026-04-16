@@ -51,13 +51,6 @@
   <img width="70%" src="https://streak-stats.demolab.com?user=mdtaufique-alam&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdtaufique-alam&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
@@ -78,8 +71,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdtaufique-alam&label=Profile+Views&color=58A6FF&style=flat-square" />
-</p>
